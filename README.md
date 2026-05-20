@@ -2,35 +2,25 @@
 
 Welcome to the GitHub home for **The Meraki Group**.
 
-We use this space to manage and collaborate on the technology, content, and operational work that supports our services.
+This profile is focused on who we are as a business and the value we bring to our clients.
 
 ## About
 
-The Meraki Group is focused on delivering high-quality, people-first work with a practical and creative approach.
+The Meraki Group is a people-first business focused on delivering high-quality, practical, and creative solutions.
 
 Learn more on our website: **[themerakigroup.co.uk](https://themerakigroup.co.uk)**
 
-## What you'll find here
+## What we do
 
-- Internal tools and workflow repositories  
-- Documentation and process resources  
-- Collaboration spaces for active projects  
-- Shared templates and standards
+- Support organisations with tailored services
+- Deliver work grounded in quality and reliability
+- Build long-term relationships through trust and outcomes
 
-## How we work
+## Our approach
 
-- Build with clarity and purpose  
-- Keep communication open and respectful  
-- Prefer simple, reliable solutions  
-- Continuously improve through feedback
-
-## Collaboration
-
-If you're collaborating with us, please:
-
-1. Follow repository-specific contribution guidance
-2. Keep pull requests focused and clear
-3. Use issues/discussions for planning and context
+- Put people and outcomes at the center of every engagement
+- Work with clarity, transparency, and professionalism
+- Continuously improve through feedback and learning
 
 ## Contact
 
